@@ -8,7 +8,7 @@
 - 🤖 Dreaming of a real Github Contribution Graph (not like this: [Hack Github Contribution Graph in 20 seconds](https://www.youtube.com/watch?v=2q--gA97caM))
 
 #### Skills:
-- 🌱 I’ve completed the C Piscine @[42Prague](https://www.42prague.com/), looking forward to the full programe in 2024 🥳
+- 🌱 I’ve completed the C Piscine @[42Prague](https://www.42prague.com/), looking forward to the full program in 2024 🥳
 - CV link TBD soon!
 
 
