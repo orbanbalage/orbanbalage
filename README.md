@@ -9,7 +9,7 @@
 
 #### Skills:
 - 🌱 I’ve completed the C Piscine @[42Prague](https://www.42prague.com/), looking forward to the full program in 2024 🥳
-- CV link TBD soon!
+- CV link in bio [WIP]
 
 
 #### Future plans?
