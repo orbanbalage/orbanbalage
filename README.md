@@ -1,7 +1,7 @@
 ### orbanbalage
 
 #### Basic Bio:
-- 👋 My name is [[ˈbɒlaːʒ]](http://ipa-reader.xyz/?text=%5B%CB%88b%C9%92la%CB%90%CA%92%5D&voice=) (ie. _Blaise / Biagio / Власий / Blas_ but in Hungarian)
+- 👋 My name is [[ˈbɒlaːʒ] - _click for pronounciation_](https://namedrop.io/balazsorban) (ie. _Blaise / Biagio / Власий / Blas_ but in Hungarian)
 - 👀 I’m a curious guy with a big mouth and mind generating free associations...
 - 📚 I like to read books and listen to podcasts, and educating myself on everything...
 - 🏡 Bilingual (grew up in 🇸🇰, mother tongue 🇭🇺). Learnt to speak fluent 🇩🇪 as a child, 🇬🇧 from watching cartoons. Most recent additions: Basic 🇮🇹 and 🇻🇦 (Latin).
