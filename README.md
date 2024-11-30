@@ -8,12 +8,8 @@
 - 🤖 Dreaming of a real Github Contribution Graph (not like this: [Hack Github Contribution Graph in 20 seconds](https://www.youtube.com/watch?v=2q--gA97caM))
 
 #### Skills:
-- 🌱 I’ve completed the C Piscine @[42Prague](https://www.42prague.com/), looking forward to the full program in 2024 🥳
-- CV link in profile section (JSON Resume)
-
-
-#### Future plans?
-- 🎱 🎲 🔮 ✨ [Is DevOps right for me? What it takes to be a DevOps Engineer](https://www.youtube.com/watch?v=Ms_jTcERvMY)
+- 🌱 I had a blast at the C Piscine @[42Prague](https://www.42prague.com/)
+- check out my LinkedIn and Résumé in the profile section
 
 <!---
 orbanbalage/orbanbalage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
