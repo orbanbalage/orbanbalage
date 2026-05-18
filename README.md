@@ -20,6 +20,7 @@
 - [Codewars](https://www.codewars.com/users/orbanbalage)
 - [HackerRank](https://www.hackerrank.com/profile/orbanbalage)
 - [roadmap.sh](https://roadmap.sh/u/orbanbalage)
+- [Credly](https://www.credly.com/users/orbanbalage)
 - Private:
   - [execute program](https://www.executeprogram.com/)
   - [Project Euler](https://projecteuler.net/)
