@@ -13,6 +13,7 @@
 
 #### Certifications, Courses, Assessment Profiles:
 - [LinkedIn](https://www.linkedin.com/in/orbanbalage/details/certifications/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/users/orbanbalage/)
 - [codecademy](https://www.codecademy.com/profiles/orbanbalage)
 - [Pluralsight](https://app.pluralsight.com/profile/balazs-orban)
 - [Exercism](https://exercism.org/profiles/orbanbalage)
