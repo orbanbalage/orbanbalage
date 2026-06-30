@@ -1,7 +1,7 @@
 ### orbanbalage
 
 #### Work History:
-- 👨‍💻 **Now:** Senior Lead Infrastructure Engineer aka. Endpoint Engineer aka. Intune Administrator & Windows 3rd Level Support @ kyndryl
+- 👨‍💻 **Now:** End-User Computing Engineer aka. Endpoint Engineer aka. Intune Administrator & Windows 3rd Level Support @ kyndryl
 - 📋 **Past:** [JSON Resumé](https://registry.jsonresume.org/orbanbalage)
 
 #### Basic Bio:
