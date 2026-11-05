@@ -11,6 +11,8 @@
 - 🏡 Bilingual (grew up in 🇸🇰, mother tongue 🇭🇺). Learnt to speak fluent 🇩🇪 as a child, 🇬🇧 from watching cartoons. More recent additions: Basic 🇮🇹 and 🇻🇦 (Latin). Check out [my progress on Duolingo](https://www.duolingo.com/profile/orbanbalage).
 - 🤖 Dreaming of a real Github Contribution Graph (not like this: [Hack Github Contribution Graph in 20 seconds](https://www.youtube.com/watch?v=2q--gA97caM))
 
+#### [![@orbanbalage's Table of Elements on FAUN.dev](https://faun.dev/@orbanbalage/toolbox/table-of-elements.png)](https://faun.dev/@orbanbalage/toolbox/)
+
 #### Certifications, Courses, Assessment Profiles:
 - [LinkedIn](https://www.linkedin.com/in/orbanbalage/details/certifications/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/orbanbalage/)
